@@ -224,6 +224,7 @@ AUTH_PROVIDER=custom
 
 4. Execute as migrações:
    ```bash
+   php artisan key:generate
    php artisan migrate
    ```
 
